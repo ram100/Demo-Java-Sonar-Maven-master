@@ -1,6 +1,7 @@
 package com.acme.module2;
 
 public class Module2 {
+	System.out.println("Entering class);
 
   public void coveredByUnitTest() {
     System.out.println("This method is covered by unit test");
